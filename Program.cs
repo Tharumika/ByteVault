@@ -1,0 +1,15 @@
+﻿Console.WriteLine("╔════════════════════════════════════════╗");
+Console.WriteLine("║     ByteVault - Inventory System     ║");
+Console.WriteLine("║   E-Commerce Management Platform      ║");
+Console.WriteLine("╚════════════════════════════════════════╝");
+Console.WriteLine();
+Console.WriteLine("Welcome to ByteVault!");
+Console.WriteLine("Project initialization successful.");
+Console.WriteLine();
+Console.WriteLine("Next Steps:");
+Console.WriteLine("1. Setup ASP.NET Core API project");
+Console.WriteLine("2. Configure PostgreSQL database");
+Console.WriteLine("3. Implement authentication");
+Console.WriteLine("4. Build inventory management features");
+Console.WriteLine();
+Console.WriteLine("Status: Project initialized ✓");
